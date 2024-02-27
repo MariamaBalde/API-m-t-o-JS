@@ -23,6 +23,10 @@ body {
   color: white;
 }
 
+#inputCity::placeholder{
+  font-weight: 300;
+}
+
 #city {
   background-color: rgba(41, 128, 185, 0.75);
 }
